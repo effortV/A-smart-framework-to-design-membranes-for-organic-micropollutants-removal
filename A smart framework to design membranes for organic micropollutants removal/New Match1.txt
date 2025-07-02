@@ -1,0 +1,12 @@
+c1ccccc1F
+c1ccccc1CCC
+c1ccccc1[OH]
+c1ccccc1S(=O)(=O)[OH]
+c1ccccc1C(=O)[OH]
+c1ccccc1[NH2]
+c1ccccc1C(=O)N
+c1ccccc1[#6]O[#6]
+c1ccccc1S(=O)N
+c1ccccc1C(=O)O[#6]
+c1ccccc1Cl
+c1ccccc1[CH3]
